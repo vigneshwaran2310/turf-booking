@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;    
+}
+
+nav{
+    height: 70px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav .nav-wrapper{
+    width: 80%;
+    height: 100%;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav .nav-wrapper ul {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 25px;
+    list-style-type: none;
+
+}
+nav .nav-wrapper ul li a{
+    text.de
+}
